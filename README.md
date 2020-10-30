@@ -27,3 +27,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+```
+{
+    "semi": true, // 是否写结尾的分号
+    "singleQuote": true,   // 是否使用单引号
+    "arrowParens": "always", // 再声明匿名函数的时候是否使用括号
+    "trailingComma": "all" 
+}
+```
